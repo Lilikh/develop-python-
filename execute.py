@@ -2,8 +2,8 @@ import smtplib, ssl
 from email.mime.text import MIMEText
 
 #write your email
-sender = 'lilikheirandish@gmail.com'
-receivers = ['lilikheirandish@gmail.com']
+sender = 'leila.kheirandish@gmail.com'
+receivers = ['leila.kheirandish@gmail.com']
 body = 'hello! my name is Leila'
 
 
