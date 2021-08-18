@@ -15,7 +15,7 @@ msg['To'] = ','.join(receivers)
 
 
 Send_Email = smtplib.SMTP_SSL(host = 'smtp.gmail.com', port = 465)
-Send_Email.login(user = sender, password = 'esiijooon')
+Send_Email.login(user = sender, password = 'esiidooliii')
 Send_Email.sendmail(sender, receivers, msg.as_string())
 Send_Email.quit()
 
